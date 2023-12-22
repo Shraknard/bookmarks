@@ -1,0 +1,1 @@
+|https://addons.mozilla.org/firefox/addon/assay-url-inspection-tools/|analyse url|
